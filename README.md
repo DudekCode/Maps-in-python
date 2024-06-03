@@ -10,3 +10,6 @@ The Maps-in-Python project aims to replicate the process of creating map using P
 
 
 ## Getting Started
+
+
+Contributions and suggestions for improvement are always welcome
